@@ -2,3 +2,6 @@
 *.swp
 *.swo
 *.bak
+
+# tmp dirs
+.DS_Store

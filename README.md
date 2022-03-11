@@ -110,3 +110,14 @@ TODO
 ArXiv link: https://arxiv.org/abs/2203.01017
 
 [Supplementary material](pdf/3686_supplementary.pdf)
+
+**Citation:**
+
+```
+@article{nassar2022tableformer,
+  title={TableFormer: Table Structure Understanding with Transformers},
+  author={Nassar, Ahmed and Livathinos, Nikolaos and Lysak, Maksym and Staar, Peter},
+  journal={arXiv preprint arXiv:2203.01017},
+  year={2022}
+}
+```

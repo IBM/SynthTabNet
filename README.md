@@ -100,7 +100,9 @@ The `tokens` can be one of:
 
 ## Jupyter notebook
 
-TODO
+Here is a jupyter notebook that demonstrates how to download and use the dataset:
+
+[Demo Notebook](synthtabnet_demo.ipynb)
 
 
 ## Paper

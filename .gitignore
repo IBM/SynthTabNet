@@ -5,3 +5,11 @@
 
 # tmp dirs
 .DS_Store
+.ipynb_checkpoints
+__pycache__/
+venv/
+samples.zip
+samples/
+
+# tmp code
+console_demo.py

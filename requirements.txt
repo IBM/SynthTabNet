@@ -1,0 +1,5 @@
+jsonlines
+jupyterlab
+notebook
+Pillow
+matplotlib

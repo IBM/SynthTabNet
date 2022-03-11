@@ -16,7 +16,7 @@ It [has been shown](https://arxiv.org/abs/2203.01017) that other non-synthetic d
 
 SynthTabNet aims to overcome these limitations by providing:
 
-- A broad range of table sizes and richer combinations of row spans /column spans. 
+- A broad range of table sizes and richer combinations of row spans /column spans.
 - A variety of domain specific styling appearances (e.g. financial data, marketing data, sparse tables etc.)
 - Content generated out of the most frequently used terms appearing in non-synthetic datasets (e.g. PubTabNet, FinTabNet, etc.)
 - Bounding boxes for all table cells, including the empty ones.
@@ -24,7 +24,7 @@ SynthTabNet aims to overcome these limitations by providing:
 
 SynthTabNet is organized into 4 parts of 150k tables (600k in total). Each part contains tables with different appearances in regard to their size, structure, style and content. All parts are divided into Train, Test and Val splits (80%, 10%, 10%). The tables are delivered as `png` images and the annotations are in `jsonl` format.
 
-A detailed description of the data synthesis process can be found in the [supplementary material](pdf/3686_supplementary.pdf).
+A detailed description of the data synthesis process can be found in the [paper](https://arxiv.org/abs/2203.01017).
 
 
 ## Download
@@ -108,8 +108,6 @@ TODO
 - Peter Staar (taa@zurich.ibm.com)
 
 ArXiv link: https://arxiv.org/abs/2203.01017
-
-[Supplementary material](pdf/3686_supplementary.pdf)
 
 **Citation:**
 

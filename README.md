@@ -58,6 +58,10 @@ The annotations for each part are in the `synthetic_data.jsonl` file. Each line 
     "cells": "Array with all table cells",
         "cell_id": "Zero based cell counter",
         "is_header": "true if that cell is part of the table header",
+        "span": "In case there is a rowspan / columnspan",
+            "spantype": "One of 'rowspan', 'colspan', '2dspan'. The '2dspan' is used in case there is a rowspan and colspan in the same cell",
+            "rowspan": "Number of rowspans for this cell",
+            "colspan": "Number of colspans for this cell"
         "tokens": "Array with the tokenized content of the cell",
         "bbox": "The bounding bbox and the class of the cell in [x1, y1, x2, y2, class] format"
     "structure":

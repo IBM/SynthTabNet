@@ -29,13 +29,27 @@ A detailed description of the data synthesis process can be found in the [paper]
 
 ## Download
 
-| Appearance style | Records | Size(GB) | URL    |
-|------------------|---------|----------|--------|
-| Fintabnet        | 150k    | 10.0     | [SynthTabNet-part1](https://s3.eu-de.cloud-object-storage.appdomain.cloud:443/synthtabnet-public/fintabnet.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=6e4879c59d91496a9e8f6ff98775abf2%2F20220307%2Fus-south%2Fs3%2Faws4_request&X-Amz-Date=20220307T165504Z&X-Amz-Expires=31536000&X-Amz-SignedHeaders=host&X-Amz-Signature=dd27cb9cfd0d89289b2c5329fc7fd34e9d0e6861d197c43d67ac0b265d06d91c)|
-| Marketing        | 150k    | 8.2      | [SynthTabNet-part2](https://s3.eu-de.cloud-object-storage.appdomain.cloud:443/synthtabnet-public/marketing.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=6e4879c59d91496a9e8f6ff98775abf2%2F20220307%2Fus-south%2Fs3%2Faws4_request&X-Amz-Date=20220307T165636Z&X-Amz-Expires=31536000&X-Amz-SignedHeaders=host&X-Amz-Signature=cdca60e7f5189e3d23fc4713357bc44e996e16f02dbc75bd8b5c64541f39899e) |
-| PubTabNet        | 150k    | 6.4      | [SynthTabNet-part3](https://s3.eu-de.cloud-object-storage.appdomain.cloud:443/synthtabnet-public/pubtabnet.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=6e4879c59d91496a9e8f6ff98775abf2%2F20220307%2Fus-south%2Fs3%2Faws4_request&X-Amz-Date=20220307T165715Z&X-Amz-Expires=31536000&X-Amz-SignedHeaders=host&X-Amz-Signature=fb43cbf0ede412708710309f9b31c5d6f83b526bb1ffdbb3a525d3502ea9b3cb) |
-| Sparse           | 150k    | 3.4      | [SynthTatNet-part4](https://s3.eu-de.cloud-object-storage.appdomain.cloud:443/synthtabnet-public/sparse.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=6e4879c59d91496a9e8f6ff98775abf2%2F20220307%2Fus-south%2Fs3%2Faws4_request&X-Amz-Date=20220307T165758Z&X-Amz-Expires=31536000&X-Amz-SignedHeaders=host&X-Amz-Signature=d39e17be67da747dc5c953b90dfca560f2caec2d8f3450de974bff9d46d1a40a) |
+v2.0.0
 
+| Appearance style | Records | Size(GB) | URL v2.0.0  |
+|------------------|---------|----------|-------------|
+| Fintabnet        | 150k    | 10     | [SynthTabNet-part1](https://s3.eu-de.cloud-object-storage.appdomain.cloud:443/synthtabnet-public/v2.0.0/fintabnet.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=6e4879c59d91496a9e8f6ff98775abf2%2F20220718%2Fus-south%2Fs3%2Faws4_request&X-Amz-Date=20220718T090414Z&X-Amz-Expires=31536000&X-Amz-SignedHeaders=host&X-Amz-Signature=44a351832ae9b3e5c8e8d2a1bdd4dbf661f2434053c1d00aa9217aa8d909e882) |
+| Marketing        | 150k    | 8      | [SynthTabNet-part2](https://s3.eu-de.cloud-object-storage.appdomain.cloud:443/synthtabnet-public/v2.0.0/marketing.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=6e4879c59d91496a9e8f6ff98775abf2%2F20220718%2Fus-south%2Fs3%2Faws4_request&X-Amz-Date=20220718T090441Z&X-Amz-Expires=31536000&X-Amz-SignedHeaders=host&X-Amz-Signature=225b00ea1e11a31f0da3551c2aca1b48c18d0b8d29b05f8d958bd6f3c60c2a39) |
+| PubTabNet        | 150k    | 6      | [SynthTabNet-part3](https://s3.eu-de.cloud-object-storage.appdomain.cloud:443/synthtabnet-public/v2.0.0/pubtabnet.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=6e4879c59d91496a9e8f6ff98775abf2%2F20220718%2Fus-south%2Fs3%2Faws4_request&X-Amz-Date=20220718T090516Z&X-Amz-Expires=31536000&X-Amz-SignedHeaders=host&X-Amz-Signature=37f161f67de0af8ab736f096796b68ac4db57822961a22e2210b5e5e769c7156) |
+| Sparse           | 150k    | 3      | [SynthTatNet-part4](https://s3.eu-de.cloud-object-storage.appdomain.cloud:443/synthtabnet-public/v2.0.0/sparse.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=6e4879c59d91496a9e8f6ff98775abf2%2F20220718%2Fus-south%2Fs3%2Faws4_request&X-Amz-Date=20220718T090232Z&X-Amz-Expires=31536000&X-Amz-SignedHeaders=host&X-Amz-Signature=3c13a005bc092d3442041ce9b092185bc60431668e8702b0105e9320ef29e390) |
+
+
+<details>
+<summary>v1.0.0</summary>
+
+| Appearance style | Records | Size(GB) | URL v1.0.0  |
+|------------------|---------|----------|-------------|
+| Fintabnet        | 150k    | 10     | [SynthTabNet-part1](https://s3.eu-de.cloud-object-storage.appdomain.cloud:443/synthtabnet-public/fintabnet.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=6e4879c59d91496a9e8f6ff98775abf2%2F20220307%2Fus-south%2Fs3%2Faws4_request&X-Amz-Date=20220307T165504Z&X-Amz-Expires=31536000&X-Amz-SignedHeaders=host&X-Amz-Signature=dd27cb9cfd0d89289b2c5329fc7fd34e9d0e6861d197c43d67ac0b265d06d91c)|
+| Marketing        | 150k    | 8      | [SynthTabNet-part2](https://s3.eu-de.cloud-object-storage.appdomain.cloud:443/synthtabnet-public/marketing.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=6e4879c59d91496a9e8f6ff98775abf2%2F20220307%2Fus-south%2Fs3%2Faws4_request&X-Amz-Date=20220307T165636Z&X-Amz-Expires=31536000&X-Amz-SignedHeaders=host&X-Amz-Signature=cdca60e7f5189e3d23fc4713357bc44e996e16f02dbc75bd8b5c64541f39899e) |
+| PubTabNet        | 150k    | 6      | [SynthTabNet-part3](https://s3.eu-de.cloud-object-storage.appdomain.cloud:443/synthtabnet-public/pubtabnet.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=6e4879c59d91496a9e8f6ff98775abf2%2F20220307%2Fus-south%2Fs3%2Faws4_request&X-Amz-Date=20220307T165715Z&X-Amz-Expires=31536000&X-Amz-SignedHeaders=host&X-Amz-Signature=fb43cbf0ede412708710309f9b31c5d6f83b526bb1ffdbb3a525d3502ea9b3cb) |
+| Sparse           | 150k    | 3      | [SynthTatNet-part4](https://s3.eu-de.cloud-object-storage.appdomain.cloud:443/synthtabnet-public/sparse.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=6e4879c59d91496a9e8f6ff98775abf2%2F20220307%2Fus-south%2Fs3%2Faws4_request&X-Amz-Date=20220307T165758Z&X-Amz-Expires=31536000&X-Amz-SignedHeaders=host&X-Amz-Signature=d39e17be67da747dc5c953b90dfca560f2caec2d8f3450de974bff9d46d1a40a) |
+
+</details>
 
 ## Data format
 

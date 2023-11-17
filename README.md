@@ -36,7 +36,7 @@ v2.0.0
 | Fintabnet        | 150k    | 10     | [SynthTabNet-part1](https://ds4sd-public-artifacts.s3.eu-de.cloud-object-storage.appdomain.cloud/datasets/synthtabnet_public/v2.0.0/fintabnet.zip) |
 | Marketing        | 150k    | 8      | [SynthTabNet-part2](https://ds4sd-public-artifacts.s3.eu-de.cloud-object-storage.appdomain.cloud/datasets/synthtabnet_public/v2.0.0/marketing.zip) |
 | PubTabNet        | 150k    | 6      | [SynthTabNet-part3](https://ds4sd-public-artifacts.s3.eu-de.cloud-object-storage.appdomain.cloud/datasets/synthtabnet_public/v2.0.0/pubtabnet.zip) |
-| Sparse           | 150k    | 3      | [SynthTatNet-part4](https://ds4sd-public-artifacts.s3.eu-de.cloud-object-storage.appdomain.cloud/datasets/synthtabnet_public/v2.0.0/pubtabnet.zip) |
+| Sparse           | 150k    | 3      | [SynthTatNet-part4](https://ds4sd-public-artifacts.s3.eu-de.cloud-object-storage.appdomain.cloud/datasets/synthtabnet_public/v2.0.0/sparse.zip) |
 
 [v2.0.0 MD5 checksums](https://ds4sd-public-artifacts.s3.eu-de.cloud-object-storage.appdomain.cloud/datasets/synthtabnet_public/v2.0.0/md5sum.txt)
 
